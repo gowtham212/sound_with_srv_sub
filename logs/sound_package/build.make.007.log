@@ -1,0 +1,28 @@
+[35m[1mScanning dependencies of target _sound_package_generate_messages_check_deps_SetVolume[0m
+[35m[1mScanning dependencies of target _sound_package_generate_messages_check_deps_ToggleMute[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _sound_package_generate_messages_check_deps_ToggleMute
+[  0%] Built target _sound_package_generate_messages_check_deps_SetVolume
+[  0%] Built target _sound_package_generate_messages_check_deps_StopSong
+[  0%] Built target _sound_package_generate_messages_check_deps_PlaySong
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 13%] [34m[1mGenerating EusLisp code from sound_package/SetVolume.srv[0m
+[ 13%] [34m[1mGenerating Python code from SRV sound_package/ToggleMute[0m
+[ 13%] [34m[1mGenerating Python code from SRV sound_package/SetVolume[0m
+[ 18%] [34m[1mGenerating Lisp code from sound_package/SetVolume.srv[0m
+[ 22%] [34m[1mGenerating C++ code from sound_package/SetVolume.srv[0m
+[ 27%] [34m[1mGenerating Javascript code from sound_package/SetVolume.srv[0m
+[ 31%] [34m[1mGenerating Lisp code from sound_package/ToggleMute.srv[0m
+[ 36%] [34m[1mGenerating EusLisp code from sound_package/ToggleMute.srv[0m
+[ 45%] Built target sound_package_generate_messages_lisp
+[ 50%] [34m[1mGenerating C++ code from sound_package/ToggleMute.srv[0m
+[ 54%] [34m[1mGenerating Javascript code from sound_package/ToggleMute.srv[0m
+[ 68%] Built target sound_package_generate_messages_eus
+[ 77%] Built target sound_package_generate_messages_nodejs
+[ 81%] [34m[1mGenerating Python srv __init__.py for sound_package[0m
+[ 90%] Built target sound_package_generate_messages_cpp
+[100%] Built target sound_package_generate_messages_py
+[100%] Built target sound_package_generate_messages

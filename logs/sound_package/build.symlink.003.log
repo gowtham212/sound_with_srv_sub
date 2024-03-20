@@ -1,0 +1,20 @@
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/_package.lisp
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/_package_PlaySong.lisp
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/sound_package-srv.asd
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/PlaySong.lisp
+Symlinking /home/amr/sound_ws/devel/share/roseus/ros/sound_package/manifest.l
+Symlinking /home/amr/sound_ws/devel/share/roseus/ros/sound_package/srv/PlaySong.l
+Symlinking /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/_index.js
+Symlinking /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/srv/_index.js
+Symlinking /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/srv/PlaySong.js
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/sound_package/cmake/sound_packageConfig.cmake, /home/amr/sound_ws/devel/share/sound_package/cmake/sound_packageConfig.cmake)
+Symlinking /home/amr/sound_ws/devel/share/sound_package/cmake/sound_package-msg-paths.cmake
+Symlinking /home/amr/sound_ws/devel/share/sound_package/cmake/sound_package-msg-extras.cmake
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/sound_package/cmake/sound_packageConfig-version.cmake, /home/amr/sound_ws/devel/share/sound_package/cmake/sound_packageConfig-version.cmake)
+Symlinking /home/amr/sound_ws/devel/include/sound_package/PlaySongResponse.h
+Symlinking /home/amr/sound_ws/devel/include/sound_package/PlaySong.h
+Symlinking /home/amr/sound_ws/devel/include/sound_package/PlaySongRequest.h
+Symlinking /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/__init__.py
+Symlinking /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/srv/_PlaySong.py
+Symlinking /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/srv/__init__.py
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/lib/pkgconfig/sound_package.pc, /home/amr/sound_ws/devel/lib/pkgconfig/sound_package.pc)

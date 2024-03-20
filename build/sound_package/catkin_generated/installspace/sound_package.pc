@@ -1,0 +1,8 @@
+prefix=/home/amr/sound_ws/install
+
+Name: sound_package
+Description: Description of sound_package
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lsound_package
+Requires: roscpp rospy std_msgs

@@ -1,0 +1,44 @@
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/common-lisp/ros/sound_package/srv/_package.lisp, /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/_package.lisp)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/common-lisp/ros/sound_package/srv/_package_PlaySong.lisp, /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/_package_PlaySong.lisp)
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/_package_ToggleMute.lisp
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/common-lisp/ros/sound_package/srv/StopSong.lisp, /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/StopSong.lisp)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/common-lisp/ros/sound_package/srv/_package_StopSong.lisp, /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/_package_StopSong.lisp)
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/SetVolume.lisp
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/common-lisp/ros/sound_package/srv/sound_package-srv.asd, /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/sound_package-srv.asd)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/common-lisp/ros/sound_package/srv/PlaySong.lisp, /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/PlaySong.lisp)
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/ToggleMute.lisp
+Symlinking /home/amr/sound_ws/devel/share/common-lisp/ros/sound_package/srv/_package_SetVolume.lisp
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/roseus/ros/sound_package/manifest.l, /home/amr/sound_ws/devel/share/roseus/ros/sound_package/manifest.l)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/roseus/ros/sound_package/srv/StopSong.l, /home/amr/sound_ws/devel/share/roseus/ros/sound_package/srv/StopSong.l)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/roseus/ros/sound_package/srv/PlaySong.l, /home/amr/sound_ws/devel/share/roseus/ros/sound_package/srv/PlaySong.l)
+Symlinking /home/amr/sound_ws/devel/share/roseus/ros/sound_package/srv/SetVolume.l
+Symlinking /home/amr/sound_ws/devel/share/roseus/ros/sound_package/srv/ToggleMute.l
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/gennodejs/ros/sound_package/_index.js, /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/_index.js)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/gennodejs/ros/sound_package/srv/_index.js, /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/srv/_index.js)
+Symlinking /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/srv/ToggleMute.js
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/gennodejs/ros/sound_package/srv/StopSong.js, /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/srv/StopSong.js)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/gennodejs/ros/sound_package/srv/PlaySong.js, /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/srv/PlaySong.js)
+Symlinking /home/amr/sound_ws/devel/share/gennodejs/ros/sound_package/srv/SetVolume.js
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/sound_package/cmake/sound_packageConfig.cmake, /home/amr/sound_ws/devel/share/sound_package/cmake/sound_packageConfig.cmake)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/sound_package/cmake/sound_package-msg-paths.cmake, /home/amr/sound_ws/devel/share/sound_package/cmake/sound_package-msg-paths.cmake)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/sound_package/cmake/sound_package-msg-extras.cmake, /home/amr/sound_ws/devel/share/sound_package/cmake/sound_package-msg-extras.cmake)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/share/sound_package/cmake/sound_packageConfig-version.cmake, /home/amr/sound_ws/devel/share/sound_package/cmake/sound_packageConfig-version.cmake)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/include/sound_package/StopSongResponse.h, /home/amr/sound_ws/devel/include/sound_package/StopSongResponse.h)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/include/sound_package/PlaySongResponse.h, /home/amr/sound_ws/devel/include/sound_package/PlaySongResponse.h)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/include/sound_package/StopSong.h, /home/amr/sound_ws/devel/include/sound_package/StopSong.h)
+Symlinking /home/amr/sound_ws/devel/include/sound_package/SetVolumeResponse.h
+Symlinking /home/amr/sound_ws/devel/include/sound_package/SetVolumeRequest.h
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/include/sound_package/PlaySong.h, /home/amr/sound_ws/devel/include/sound_package/PlaySong.h)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/include/sound_package/PlaySongRequest.h, /home/amr/sound_ws/devel/include/sound_package/PlaySongRequest.h)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/include/sound_package/StopSongRequest.h, /home/amr/sound_ws/devel/include/sound_package/StopSongRequest.h)
+Symlinking /home/amr/sound_ws/devel/include/sound_package/ToggleMuteRequest.h
+Symlinking /home/amr/sound_ws/devel/include/sound_package/ToggleMute.h
+Symlinking /home/amr/sound_ws/devel/include/sound_package/SetVolume.h
+Symlinking /home/amr/sound_ws/devel/include/sound_package/ToggleMuteResponse.h
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/lib/python3/dist-packages/sound_package/__init__.py, /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/__init__.py)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/lib/python3/dist-packages/sound_package/srv/_StopSong.py, /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/srv/_StopSong.py)
+Symlinking /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/srv/_SetVolume.py
+Symlinking /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/srv/_ToggleMute.py
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/lib/python3/dist-packages/sound_package/srv/_PlaySong.py, /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/srv/_PlaySong.py)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/lib/python3/dist-packages/sound_package/srv/__init__.py, /home/amr/sound_ws/devel/lib/python3/dist-packages/sound_package/srv/__init__.py)
+Linked: (/home/amr/sound_ws/devel/.private/sound_package/lib/pkgconfig/sound_package.pc, /home/amr/sound_ws/devel/lib/pkgconfig/sound_package.pc)

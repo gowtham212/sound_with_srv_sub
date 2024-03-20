@@ -1,0 +1,6 @@
+# Request message format
+int32 volume  # Desired volume level (0-100)
+
+# Response message format
+---
+bool success  # Indicates whether the volume was set successfully

@@ -1,0 +1,3 @@
+Symlinking /home/amr/sound_ws/devel/share/sound_package/cmake/sound_packageConfig.cmake
+Symlinking /home/amr/sound_ws/devel/share/sound_package/cmake/sound_packageConfig-version.cmake
+Symlinking /home/amr/sound_ws/devel/lib/pkgconfig/sound_package.pc

@@ -1,0 +1,5 @@
+# No request message needed
+
+# Response message format
+---
+bool success  # Indicates whether the mute state was toggled successfully

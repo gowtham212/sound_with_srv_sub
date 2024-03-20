@@ -1,0 +1,6 @@
+devel_space: /home/amr/sound_ws/devel
+install: false
+install_space: /home/amr/sound_ws/install
+profile: default
+source_space: /home/amr/sound_ws/src
+workspace: /home/amr/sound_ws

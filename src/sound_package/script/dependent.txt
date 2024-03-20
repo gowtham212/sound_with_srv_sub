@@ -1,0 +1,6 @@
+sudo apt update
+sudo apt install libsdl2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev
+sudo python3 -m pip install pygame
+sudo apt install libfreetype6-dev
+sudo apt-get install mpg123
+sudo pip3 install pyalsaaudio
