@@ -1,0 +1,11 @@
+<launch>
+    <!-- Launch the stop_ros_song_service.py node -->
+    <node pkg="sound_package" type="stop_ros_song_service.py" name="stop_ros_song_service_node" output="screen"/>
+
+    <!-- Launch the song_subscriber.py node -->
+    <node pkg="sound_package" type="song_subscriber.py" name="song_subscriber_node" output="screen"/>
+
+    <!-- Launch the sound_set_service.py node -->
+    <node pkg="sound_package" type="sound_set_service.py" name="sound_set_service_node" output="screen"/>
+</launch>
+
